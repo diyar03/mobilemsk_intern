@@ -1,0 +1,3 @@
+Linux scripting basics
+
+I learned about Linux scripting in an hour-long seminar, which is also possible on Windows thanks to the Windows Subsystem for Linux (WSL). Using Linux scripting, we may record extensive code and run it line by line as needed. Programming languages like Python allow for the creation of scripts, which allow for the automation of repetitive operations. Direct execution of them is possible from the command line. Linux scripting dramatically boosts output and streamlines processes. It enables the ability to customise and simplify system setups as well as the ease of automating processes. Users are able to successfully optimise their processes thanks to Linux's scripting capabilities, even on Windows-based systems.
